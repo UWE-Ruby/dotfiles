@@ -1,13 +1,4 @@
 
-#
-# Useful aliases to login to remote systems
-#
-# - this requires that you have a valid `~/.ssh/wetpaint.pem` with permissions
-#   set to 600 (chmod 600 ~/.ssh/wetpaint.pem)
-#  
-#
-alias central="ssh ubuntu@216.168.54.51 -i ~/.ssh/wetpaint.pem"
-
 # 
 # This loads RVM into a shell session.
 #
