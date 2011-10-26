@@ -1,0 +1,9 @@
+# Useful aliases to make it easier to type in common commands
+# This section should be appended to your existing .gitconfig
+[alias]
+  b = branch
+  co = checkout
+  ci = commit
+  dc = diff --cached
+  st = status
+  pu = remote update --prune
