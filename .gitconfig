@@ -1,3 +1,6 @@
+[color]
+  ui = auto
+
 # Useful aliases to make it easier to type in common commands
 # This section should be appended to your existing .gitconfig
 [alias]
